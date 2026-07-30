@@ -15,12 +15,12 @@ I'm an MS Bioinformatics candidate at Boston University, currently working as a 
 
 ![My Skills](https://skillicons.dev/icons?i=py,r,java,bash,git,github,docker,linux,aws,tensorflow,sklearn,anaconda)
 
-**Languages:** Python · R · Java · Bash/Shell
-**Single-Cell & Genomics:** Seurat · Signac · mgatk · redeemR · scRNA-seq · scATAC-seq · STAR · Bowtie2 · BWA · VERSE · DESeq2 · GATK · HOMER · deepTools · SAMtools · bedtools · FastQC/MultiQC · Trimmomatic · BLAST · Bioconductor
-**Workflow & Infrastructure:** Nextflow · Snakemake · SLURM/HPC · Docker · Conda · Git · AWS
-**ML & Data Science:** Scikit-learn · TensorFlow/Keras · XGBoost · LightGBM · Optuna · NumPy · Pandas · RDKit
-**Visualization & Stats:** Matplotlib · Seaborn · ggplot2 · Plotly · scipy · statsmodels
-**Computational Neuroimaging:** FSL/Nilearn · ANTs · FreeSurfer
+- **Languages:** Python · R · Java · Bash/Shell
+- **Single-Cell & Genomics:** Seurat · Signac · mgatk · redeemR · scRNA-seq · scATAC-seq · STAR · Bowtie2 · BWA · VERSE · DESeq2 · GATK · HOMER · deepTools · SAMtools · bedtools · FastQC/MultiQC · Trimmomatic · BLAST · Bioconductor
+- **Workflow & Infrastructure:** Nextflow · Snakemake · SLURM/HPC · Docker · Conda · Git · AWS
+- **ML & Data Science:** Scikit-learn · TensorFlow/Keras · XGBoost · LightGBM · Optuna · NumPy · Pandas · RDKit
+- **Visualization & Stats:** Matplotlib · Seaborn · ggplot2 · Plotly · scipy · statsmodels
+- **Computational Neuroimaging:** FSL/Nilearn · ANTs · FreeSurfer
 
 ### 📌 Featured Projects
 
