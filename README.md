@@ -13,7 +13,7 @@ I'm an MS Bioinformatics candidate at Boston University, currently working as a 
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=py,r,linux,git,github,docker,bash,html)
+![My Skills](https://skillicons.dev/icons?i=py,r,linux,git,github,docker,bash,html,tensorflow,sql,opencv,github,anaconda)
 
 **Genomics & Single-Cell:** Scanpy · Seurat · ArchR · Signac · mgatk · ReDeeM · Numbat · Mutect2 · MitoDrift
 **Workflow & Infrastructure:** Nextflow · Docker · SLURM · Conda/Miniforge
